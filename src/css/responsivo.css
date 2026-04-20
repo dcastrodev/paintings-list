@@ -1,0 +1,38 @@
+@media (max-width: 1400px) {
+  html {
+    font-size: 58.5%;
+  }
+}
+@media (max-width: 1327px) {
+  html {
+    font-size: 54.5%;
+  }
+
+  .paintings-list div {
+    max-width: 100rem;
+  }
+}
+
+@media (max-width: 1240px) {
+  body {
+    height: auto;
+    padding: 20px 0px;
+  }
+  html {
+    font-size: 59%;
+  }
+  .paintings-list {
+    max-width: 100rem;
+  }
+}
+
+@media (max-width: 665px) {
+  section.paintings-list {
+    gap: 0.2rem;
+  }
+
+  .paintings-list > div {
+    width: 36rem;
+    height: 46rem;
+  }
+}
