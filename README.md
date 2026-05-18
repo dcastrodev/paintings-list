@@ -2,6 +2,11 @@
 
 Projeto realizado com o objetivo de criar uma lista de quadros utilizando o Flexbox do CSS, feito para praticar as habilidades em layout responsivo e flexível.
 
+## 📍 Live Demo
+Veja o projeto no seu navegador:
+
+<a href="https://dcastrodev.github.io/paintings-list/"><strong>🔗 Click to View</strong></a>
+
 ## Objetivos
 
 - Exibição de uma lista de quadros em um layout flexível.
@@ -18,3 +23,5 @@ Projeto realizado com o objetivo de criar uma lista de quadros utilizando o Flex
 <p align="center">
 <img src="./src/assets/images/layout_mobile.gif"  width="700"/>
 </p>
+
+
